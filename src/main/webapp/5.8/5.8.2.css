@@ -1,0 +1,56 @@
+.content form{
+	width:450px;
+	height:auto;
+	position:absolute;
+	top:20px;
+}
+.line{
+	margin-bottom:5px;
+	margin-top: 15px;
+}
+.line-left{
+	width:48px;
+	float:left;
+	font-size:12px;
+	line-height:20px;
+	display:inline-block;
+}
+.line-middle{
+	width:150px;
+	font-size:11px;
+	line-height:20px;
+}
+.line-right{
+	width:150px;
+	text-align: right;
+	float: right;
+	text-align:left;
+	display:inline-block;
+}
+.submit{
+	position:absolute;
+	bottom:10px;
+	left: 120px;
+	border-radius:15px;
+	-webkit-border-radius:15px;
+	-moz-border-radius:15px;
+	-moz-border-radius:15px;
+	-o-border-radius:15px;
+	color:blue;
+}
+.p{
+	clear:both;
+	font-size:15px;
+	color:grey;
+	text-align: center;
+	margin:0 auto;
+}
+.case{
+	width:180px;
+}
+.select{
+	width:180px;
+}
+.frame{
+	width:180px;
+}
