@@ -3,7 +3,6 @@ F:\IJ_Maven_Project\travel\src\main\java\cn\itcast\travel\util\JedisUtil.java
 F:\IJ_Maven_Project\travel\src\main\java\cn\itcast\travel\dao\FavoriteDao.java
 F:\IJ_Maven_Project\travel\src\main\java\cn\itcast\travel\dao\impl\FavoriteDaoImpl.java
 F:\IJ_Maven_Project\travel\src\main\java\cn\itcast\travel\dao\impl\UserDaoImpl.java
-F:\IJ_Maven_Project\travel\src\main\java\cn\OJ\Main.java
 F:\IJ_Maven_Project\travel\src\main\java\cn\itcast\travel\service\CategoryService.java
 F:\IJ_Maven_Project\travel\src\main\java\cn\itcast\travel\domain\Seller.java
 F:\IJ_Maven_Project\travel\src\main\java\cn\itcast\travel\web\servlet\UserServlet.java
